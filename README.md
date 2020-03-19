@@ -1,24 +1,3 @@
 # Nomster
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://nomster-nickolas-vu.herokuapp.com/
+This is a web app where users can post information and reviews about various places they have been to. Users also have the ability to leave comments on other posts, give ratings, and upload photos.
