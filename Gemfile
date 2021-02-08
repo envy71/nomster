@@ -71,7 +71,7 @@ gem 'devise'
 
 gem "geocoder"
 gem "figaro"
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 2.1'
 gem 'fog-aws'
 
 
